@@ -1,16 +1,16 @@
 problem:
   instance:
-    C: 48 #g=2 96/2 
+    C: 3
     Hdilation: 1
-    Hstride: 1
-    M: 64 #g=2 256/2 alpha=0.5 
+    Hstride: 4
+    M: 48 #a = 0.5
     N: 1
-    P: 27 #rho=1 27*1
-    Q: 27
-    R: 5
-    S: 5
+    P: 55
+    Q: 55
+    R: 11
+    S: 11
     Wdilation: 1
-    Wstride: 1
+    Wstride: 4
   shape:
     coefficients:
     - default: 1
@@ -55,4 +55,4 @@ problem:
     - N
     - P
     - Q
-    name: CNN-Layer-2
+    name: CNN-Layer-1

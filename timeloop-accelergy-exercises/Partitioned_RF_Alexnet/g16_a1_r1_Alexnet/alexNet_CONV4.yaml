@@ -1,14 +1,14 @@
 problem:
   instance:
-    C: 48 #g=2 96/2 
+    C: 24 #g=16 384/16 
     Hdilation: 1
     Hstride: 1
-    M: 64 #g=2 256/2 alpha=0.5 
+    M: 12 #g=16 384/16 alpha=0.5
     N: 1
-    P: 27 #rho=1 27*1
-    Q: 27
-    R: 5
-    S: 5
+    P: 13 #rho=1
+    Q: 13
+    R: 3
+    S: 3
     Wdilation: 1
     Wstride: 1
   shape:
@@ -55,4 +55,4 @@ problem:
     - N
     - P
     - Q
-    name: CNN-Layer-2
+    name: CNN-Layer-4

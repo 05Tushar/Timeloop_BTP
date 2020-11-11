@@ -42,7 +42,7 @@ architecture:
               - name: ifmap_spad
                 class: smartbuffer_RF
                 attributes:
-                  memory_depth: 12
+                  memory_depth: 70
                   memory_width: 16
                   block-size: 1
                   word-bits: 16
@@ -52,7 +52,7 @@ architecture:
               - name: weights_spad
                 class: smartbuffer_RF
                 attributes:
-                  memory_depth: 192
+                  memory_depth: 80
                   memory_width: 16
                   block-size: 1
                   word-bits: 16
@@ -62,7 +62,7 @@ architecture:
               - name: psum_spad
                 class: smartbuffer_RF
                 attributes:
-                  memory_depth: 16
+                  memory_depth: 70
                   memory_width: 16
                   update_fifo_depth: 2
                   block-size: 1
