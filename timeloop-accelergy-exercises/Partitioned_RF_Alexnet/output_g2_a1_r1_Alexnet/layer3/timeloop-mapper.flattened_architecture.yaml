@@ -5,7 +5,7 @@ architecture:
     class: smartbuffer_RF
     attributes:
       block-size: 1
-      memory_depth: 12
+      memory_depth: 70
       memory_width: 16
       meshX: 16
       n_banks: 1
@@ -19,7 +19,7 @@ architecture:
     class: smartbuffer_RF
     attributes:
       block-size: 1
-      memory_depth: 192
+      memory_depth: 80
       memory_width: 16
       meshX: 16
       n_banks: 1
@@ -33,7 +33,7 @@ architecture:
     class: smartbuffer_RF
     attributes:
       block-size: 1
-      memory_depth: 16
+      memory_depth: 70
       memory_width: 16
       meshX: 16
       n_banks: 1

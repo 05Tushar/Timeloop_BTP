@@ -43,15 +43,15 @@ ERT_summary:
   - name: system.eyeriss.PE[0..255].ifmap_spad
     actions:
     - name: write
-      average_energy: 0.146
-      max_energy: 0.237
-      min_energy: 0.055
+      average_energy: 0.347
+      max_energy: 0.637
+      min_energy: 0.057
     - name: read
-      average_energy: 0.146
-      max_energy: 0.237
-      min_energy: 0.055
+      average_energy: 0.347
+      max_energy: 0.637
+      min_energy: 0.057
     - name: idle
-      energy: 0.018
+      energy: 0.02
     primitive_estimation(s):
     - name: storage
       estimator: Aladdin_table
@@ -64,15 +64,15 @@ ERT_summary:
   - name: system.eyeriss.PE[0..255].weights_spad
     actions:
     - name: write
-      average_energy: 0.824
-      max_energy: 1.586
-      min_energy: 0.061
+      average_energy: 0.379
+      max_energy: 0.701
+      min_energy: 0.057
     - name: read
-      average_energy: 0.824
-      max_energy: 1.586
-      min_energy: 0.061
+      average_energy: 0.379
+      max_energy: 0.701
+      min_energy: 0.057
     - name: idle
-      energy: 0.024
+      energy: 0.02
     primitive_estimation(s):
     - name: storage
       estimator: Aladdin_table
@@ -85,15 +85,15 @@ ERT_summary:
   - name: system.eyeriss.PE[0..255].psum_spad
     actions:
     - name: write
-      average_energy: 0.153
-      max_energy: 0.251
-      min_energy: 0.055
+      average_energy: 0.347
+      max_energy: 0.637
+      min_energy: 0.057
     - name: read
-      average_energy: 0.153
-      max_energy: 0.251
-      min_energy: 0.055
+      average_energy: 0.347
+      max_energy: 0.637
+      min_energy: 0.057
     - name: idle
-      energy: 0.018
+      energy: 0.02
     primitive_estimation(s):
     - name: storage
       estimator: Aladdin_table
