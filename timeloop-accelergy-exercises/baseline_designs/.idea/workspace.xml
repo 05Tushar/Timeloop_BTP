@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3a2a5a6-9b58-40b6-9a47-80d5b22b395e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="a5e1e77b-d784-4560-aee7-a973cc54de9c" />
+  <component name="ProjectId" id="1k61ZXq906Zv7vjLlrUsdbihtZ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Partitioned_RF_Alexnet" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3a2a5a6-9b58-40b6-9a47-80d5b22b395e" name="Default Changelist" comment="" />
+      <created>1605006282703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605006282703</updated>
+      <workItem from="1605006283720" duration="1281000" />
+      <workItem from="1605093409302" duration="527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="720" y="258" width="530" height="605" key="FileChooserDialogImpl" timestamp="1605093934333">
+      <screen x="60" y="34" width="1860" height="1046" />
+    </state>
+    <state x="720" y="258" width="530" height="605" key="FileChooserDialogImpl/60.34.1860.1046@60.34.1860.1046" timestamp="1605093934333" />
+  </component>
+</project>
